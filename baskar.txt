@@ -1,1 +1,2 @@
-hi this file edited in devops branch
+hi this file edited in good idea i got it about
+branch master
