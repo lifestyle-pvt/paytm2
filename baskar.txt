@@ -8,4 +8,4 @@ branch
 
 inserting stash cmd
 
-
+ thi stxt edited in master file,
